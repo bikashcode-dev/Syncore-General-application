@@ -15,7 +15,7 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 
 @RestController
-@RequestMapping("/SynCore")
+@RequestMapping("/Syn")
 public class SynCoreEntryController {
 
     @Autowired
